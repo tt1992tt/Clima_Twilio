@@ -1,0 +1,24 @@
+Traceback (most recent call last):
+  File "/home/ubuntu/udemy_course/Clima_Twilio/Pronostico_SMS_Twilio.py", line 9, in <module>
+    get_ipython().system('pip3 install twilio')
+NameError: name 'get_ipython' is not defined
+Traceback (most recent call last):
+  File "/home/ubuntu/udemy_course/Clima_Twilio/Pronostico_SMS_Twilio.py", line 28, in <module>
+    from twilio.rest import Client 
+ModuleNotFoundError: No module named 'twilio'
+Traceback (most recent call last):
+  File "/home/ubuntu/udemy_course/Clima_Twilio/Pronostico_SMS_Twilio.py", line 28, in <module>
+    from twilio.rest import Client 
+ModuleNotFoundError: No module named 'twilio'
+Traceback (most recent call last):
+  File "/home/ubuntu/udemy_course/Clima_Twilio/Clima_Twilio.py", line 2, in <module>
+    from twilio.rest import Client 
+ModuleNotFoundError: No module named 'twilio'
+Traceback (most recent call last):
+  File "/home/ubuntu/udemy_course/Clima_Twilio/Clima_Twilio.py", line 2, in <module>
+    from twilio.rest import Client 
+ModuleNotFoundError: No module named 'twilio'
+Traceback (most recent call last):
+  File "/home/ubuntu/udemy_course/Clima_Twilio/Clima_Twilio.py", line 3, in <module>
+    from twilio_config import * # el template que cree
+ModuleNotFoundError: No module named 'twilio_config'
