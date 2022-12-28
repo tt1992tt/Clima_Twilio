@@ -1,6 +1,7 @@
 import os
 from twilio.rest import Client 
-from twilio_env import * # el template que cree
+
+from twilio_config import * # el template que cree
 import time
 
 from requests import Request, Session 
